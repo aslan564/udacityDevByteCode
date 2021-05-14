@@ -3,7 +3,7 @@
 
 ## Screenshots
 
-![Screenshot1](screenshots/devbyte-homescreen.png)
+##![Screenshot1](screenshots/devbyte-homescreen.png)
 
 
 
